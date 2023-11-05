@@ -13,7 +13,7 @@ public class LevelGeneratorWindow : EditorWindow
 
     private Color playerColor = Color.white;
     private Color platformColor = Color.white;
-    private Color obstacleColor = Color.white;
+    private Color obstacleColor = Color.white; //
 
     private bool randomizeObstacles = false;
 
